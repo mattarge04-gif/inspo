@@ -127,21 +127,128 @@ Claude soll diese Referenz verwenden, wenn folgende Bereiche überarbeitet werde
 * Abschluss-CTA
 * visuelle Grundstruktur
 
-## 9. Beschrieb zu jeden Screenshot mit was einem gefällt
+## 9. Beschrieb zu jedem Screenshot – was mir gefällt
 
 ### facts.png
 
-wie mit icons und grafiken gespielt wird und der farbenfrohe mix
-gerne sehränlich übernehmen vom layout mit anderer grafik und icons sowie sondertext
+Mir gefällt, wie hier mit Icons, kleinen Grafiken und farbigen Elementen gearbeitet wird. Der Abschnitt wirkt dadurch nicht wie trockener Text, sondern wie ein visuelles System. Besonders stark ist der Mix aus klaren Headlines, kurzen Beschreibungen, Icons und kleinen grafischen Akzenten.
+
+Für meine Website möchte ich diese Idee übernehmen, damit Sektionen wie Leistungen, Vorteile oder Zahlen nicht langweilig wirken. Claude soll daraus lernen: Inhalte sollen nicht nur erklärt, sondern visuell unterstützt werden.
+
+**Für signedbymattia anwenden bei:**
+
+* Leistungen
+* Nutzen mit Zahlen
+* Warum signedbymattia
+* Website / Automation / Betreuung
+* Trust- und Zertifikatsbereich
+
+**Wichtig für Claude:**
+
+* nicht nur normale Textkarten erstellen
+* Icons und Mini-Grafiken bewusst einsetzen
+* jede Card soll visuell einen eigenen Zweck haben
+* farbige Akzente dürfen Aufmerksamkeit lenken
+* kurze Sondertexte / Labels nutzen, damit die Cards lebendiger wirken
+
+---
 
 ### grafik-automation.png
 
-wie mit der app icons gespielt wird passt sehr gut zu meiner ui
-so eine grafik brauche ich aber mit anderen apps die zum beispiel ein rag system zeigen
+Mir gefällt, wie mit App-Icons und verbundenen Elementen gespielt wird. Die Grafik zeigt sofort, dass verschiedene Systeme zusammenarbeiten. Diese Art passt sehr gut zu meiner Website, weil ich Automationen und digitale Prozesse anbiete.
+
+Für meine Website brauche ich aber andere Icons und andere Tools, die besser zu meinem Angebot passen. Statt Dovetail-/SaaS-Kontext sollen es Tools und Schritte sein, die zu Webdesign, Formularen, RAG-Systemen, n8n, CRM, E-Mail, Kalender, Google Sheets oder Lead-Listen passen.
+
+**Für signedbymattia anwenden bei:**
+
+* Automation-Sektion
+* Hero-Visual
+* Prozessoptimierung
+* n8n-Workflow-Erklärung
+* Agency-OS / interne Systeme
+* RAG-/AI-System-Erklärung
+
+**Wichtig für Claude:**
+
+* zentrale Automation oder Website als Hub darstellen
+* rundherum kleine Tool-/Prozess-Karten
+* Icons statt langer Erklärtexte verwenden
+* Verbindungslinien / Dotted Lines nutzen
+* Glassmorphism und Cyan/Blau/Iris-Glow beibehalten
+* keine echten fremden App-Logos verwenden, wenn es rechtlich oder visuell unsauber wirkt
+* lieber generische Icons bauen: Formular, E-Mail, Lead-Liste, Kalender, CRM, AI, Datenbank
+
+---
 
 ### info.png
 
-wie gezeigt wird was die agentur anbietet durch eine animierte scroll funktion mit text das ausgeklappt wird für jede position
-am anfang die icons und animation
+Mir gefällt, wie gezeigt wird, was die Agentur oder das Produkt anbietet, ohne alles als normalen Fliesstext darzustellen. Besonders spannend ist die animierte Scroll-/Reveal-Idee: Am Anfang sieht man Icons oder kurze Punkte, und beim Scrollen oder Öffnen wird der Text für jede Position ausgeklappt.
+
+Für meine Website wäre das stark, um meine Leistungen schrittweise zu erklären. Der Besucher soll nicht direkt von zu viel Text erschlagen werden, sondern Schritt für Schritt verstehen, was ich anbiete.
+
+**Für signedbymattia anwenden bei:**
+
+* Leistungen
+* Projektablauf
+* Website-Build-Prozess
+* Automation-Builder
+* FAQ
+* „Was ist enthalten?“-Sektionen
+
+**Wichtig für Claude:**
+
+* nicht alles direkt als lange Textwand zeigen
+* Inhalte mit Icons, kurzen Labels und Expand-/Reveal-Texten aufbauen
+* Scroll-Animationen dezent einsetzen
+* auf Mobile muss es einfach klickbar und lesbar bleiben
+* jede Position soll klar erklären: Problem → Lösung → Nutzen
+* Animation darf die Bedienung nicht komplizierter machen
+
+---
+
+### aufgaben.png
+
+Mir gefällt an diesem Abschnitt die komplette Richtung: dunkle, hochwertige Oberfläche, grosse Cards, klare Icons, kurze Headlines und kleine UI-Grafiken innerhalb jeder Card. Die Cards wirken wie echte Produkt-/Dashboard-Ausschnitte und nicht wie generische Stockbilder.
+
+Besonders gut ist, dass jede Card ein eigenes Thema visuell erklärt. Man versteht den Nutzen schneller, weil Bild, Icon, Headline und Text zusammenarbeiten.
+
+**Für signedbymattia anwenden bei:**
+
+* Vorteile meiner Websites
+* Automation-Vorteile
+* Website-Pflege
+* SEO-Grundlagen
+* Mobile-Optimierung
+* Datenschutz / Sicherheit / saubere Technik
+* Vertrauen und Prozessqualität
+
+**Wichtig für Claude:**
+
+* grosse Feature-Cards statt kleiner generischer Boxen
+* jede Card bekommt ein eigenes Mini-Visual
+* kurze starke Headlines
+* wenig Text, aber klarer Nutzen
+* dunkle Glass-/SaaS-Optik
+* dezente Schatten und Tiefe
+* Icons als Orientierung
+* Grid darf abwechslungsreich wirken, aber nicht chaotisch
+* auf signedbymattia übertragen: Webdesign, Automationen, Betreuung, SEO und lokale KMU
+
+---
+
+## Zusammenfassung für Claude
+
+Claude soll aus diesen Screenshots lernen:
+
+1. Mehr visuelle Erklärung statt nur Text.
+2. Mehr Icons, Mini-Grafiken und UI-Elemente.
+3. Cards sollen unterschiedliche Inhalte und Formen haben, nicht immer gleich aussehen.
+4. Automation soll als verbundenes System dargestellt werden.
+5. Leistungen sollen Schritt für Schritt verständlich werden.
+6. Dunkle, hochwertige SaaS-/Glassmorphism-Optik beibehalten.
+7. Jede Sektion braucht einen klaren Zweck.
+8. Keine fremden Texte, Logos, Bilder oder Layouts 1:1 kopieren.
+9. Alles muss zu signedbymattia passen: Webdesign, Automationen, Betreuung, lokale KMU, Luzern/Zentralschweiz.
+
 
 

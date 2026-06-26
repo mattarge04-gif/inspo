@@ -5,9 +5,9 @@
 
 ## 1. Screenshots in diesem Ordner
 
-* `desktop-home.png` – gesamte Desktop-Ansicht
+* `grafik-automation.png` – grafik einer autmation und was sie verbindet
 * `facts.png` – inhaltskarte mit text und fakten
-* `feature-cards.png` – Cards, Layout, visuelle Hierarchie
+* `info.png` – strukturierte Inhaltssektion mit animation
 * `pricing-or-case-section.png` – strukturierte Inhaltssektion
 
 ## 2. Was mir an dieser Website gefällt
@@ -127,7 +127,7 @@ Claude soll diese Referenz verwenden, wenn folgende Bereiche überarbeitet werde
 * Abschluss-CTA
 * visuelle Grundstruktur
 
-## 9. Beschrieb zu jeden Screen
+## 9. Beschrieb zu jeden Screenshot mit was einem gefällt
 
 ### facts.png
 
@@ -139,5 +139,9 @@ gerne sehränlich übernehmen vom layout mit anderer grafik und icons sowie sond
 wie mit der app icons gespielt wird passt sehr gut zu meiner ui
 so eine grafik brauche ich aber mit anderen apps die zum beispiel ein rag system zeigen
 
+### info.png
+
+wie gezeigt wird was die agentur anbietet durch eine animierte scroll funktion mit text das ausgeklappt wird für jede position
+am anfang die icons und animation
 
 

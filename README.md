@@ -134,8 +134,10 @@ Claude soll diese Referenz verwenden, wenn folgende Bereiche überarbeitet werde
 wie mit icons und grafiken gespielt wird und der farbenfrohe mix
 gerne sehränlich übernehmen vom layout mit anderer grafik und icons sowie sondertext
 
-### facts.png
+### grafik-automation.png
 
-wie mit icons und grafiken gespielt wird und der farbenfrohe mix
-gerne sehränlich übernehmen vom layout mit anderer grafik und icons sowie sondertext
+wie mit der app icons gespielt wird passt sehr gut zu meiner ui
+so eine grafik brauche ich aber mit anderen apps die zum beispiel ein rag system zeigen
+
+
 
